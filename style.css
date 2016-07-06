@@ -1,0 +1,12 @@
+/*
+Theme Name:     Tuts+ WooCommerce Compatibility
+Theme URI:      http://tutsplus.com
+Description:    Theme to support tuts+ coffee break course on making your theme woocommerce-compatible. Child theme for the Briar theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       briar
+Version:        1.0
+*/
+
+@import url("../briar/style.css");
+
